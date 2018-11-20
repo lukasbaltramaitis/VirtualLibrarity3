@@ -56,6 +56,10 @@
     <Reference Include="Mono.Android" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AddedAcitivity\MainPage.xaml.cs">
+      <DependentUpon>MainPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AddedAcitivity\MainPage1.xaml.cs" />
     <Compile Include="Database\Book.cs" />
     <Compile Include="Database\DbHelper.cs" />
     <Compile Include="Activities\LoginActivity.cs" />
@@ -139,6 +143,11 @@
     <AndroidResource Include="Resources\layout\bookListActivity.axml">
       <SubType>Designer</SubType>
     </AndroidResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Include="AddedAcitivity\MainPage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it.

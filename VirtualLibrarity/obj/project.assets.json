@@ -581,20 +581,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Mantas\\.nuget\\packages\\": {}
+    "C:\\Users\\Lukas\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VU\\3 pusmetis\\VSProjects\\VirtualLibrarity\\VirtualLibrarity\\VirtualLibrarity.csproj",
+      "projectUniqueName": "C:\\Users\\Lukas\\source\\repos\\VirtualLibrarityV2.0\\VirtualLibrarity\\VirtualLibrarity.csproj",
       "projectName": "VirtualLibrarity",
-      "projectPath": "D:\\VU\\3 pusmetis\\VSProjects\\VirtualLibrarity\\VirtualLibrarity\\VirtualLibrarity.csproj",
-      "packagesPath": "C:\\Users\\Mantas\\.nuget\\packages\\",
-      "outputPath": "D:\\VU\\3 pusmetis\\VSProjects\\VirtualLibrarity\\VirtualLibrarity\\obj\\",
+      "projectPath": "C:\\Users\\Lukas\\source\\repos\\VirtualLibrarityV2.0\\VirtualLibrarity\\VirtualLibrarity.csproj",
+      "packagesPath": "C:\\Users\\Lukas\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Lukas\\source\\repos\\VirtualLibrarityV2.0\\VirtualLibrarity\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
-        "C:\\Users\\Mantas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Lukas\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
