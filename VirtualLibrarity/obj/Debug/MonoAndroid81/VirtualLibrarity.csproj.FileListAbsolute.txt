@@ -1,96 +1,98 @@
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\bin\Debug\Assets\unnamed.jpg
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\bin\Debug\VirtualLibrarity.dll
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\bin\Debug\VirtualLibrarity.pdb
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\bin\Debug\VirtualLibrarity.VirtualLibrarity.apk
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\bin\Debug\VirtualLibrarity.VirtualLibrarity-Signed.apk
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\obj\Debug\MonoAndroid81\VirtualLibrarity.csprojAssemblyReference.cache
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\obj\Debug\MonoAndroid81\res.flag
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\obj\Debug\MonoAndroid81\VirtualLibrarity.csproj.CoreCompileInputs.cache
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\obj\Debug\MonoAndroid81\VirtualLibrarity.dll
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\obj\Debug\MonoAndroid81\VirtualLibrarity.pdb
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\obj\Debug\MonoAndroid81\android\bin\VirtualLibrarity.VirtualLibrarity.apk
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\obj\Debug\MonoAndroid81\res\raw\mydb.db
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\obj\Debug\MonoAndroid81\res\layout\activity_main.xml
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\obj\Debug\MonoAndroid81\res\values\colors.xml
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\obj\Debug\MonoAndroid81\res\values\ic_launcher_background.xml
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\obj\Debug\MonoAndroid81\res\values\strings.xml
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\obj\Debug\MonoAndroid81\res\values\styles.xml
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\obj\Debug\MonoAndroid81\res\mipmap-anydpi-v26\ic_launcher.xml
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\obj\Debug\MonoAndroid81\res\mipmap-anydpi-v26\ic_launcher_round.xml
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\obj\Debug\MonoAndroid81\res\mipmap-hdpi\ic_launcher.png
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\obj\Debug\MonoAndroid81\res\mipmap-hdpi\ic_launcher_foreground.png
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\obj\Debug\MonoAndroid81\res\mipmap-hdpi\ic_launcher_round.png
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\obj\Debug\MonoAndroid81\res\mipmap-mdpi\ic_launcher.png
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\obj\Debug\MonoAndroid81\res\mipmap-mdpi\ic_launcher_foreground.png
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\obj\Debug\MonoAndroid81\res\mipmap-mdpi\ic_launcher_round.png
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\obj\Debug\MonoAndroid81\res\mipmap-xhdpi\ic_launcher.png
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\obj\Debug\MonoAndroid81\res\mipmap-xhdpi\ic_launcher_foreground.png
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\obj\Debug\MonoAndroid81\res\mipmap-xhdpi\ic_launcher_round.png
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\obj\Debug\MonoAndroid81\res\mipmap-xxhdpi\ic_launcher.png
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\obj\Debug\MonoAndroid81\res\mipmap-xxhdpi\ic_launcher_foreground.png
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\obj\Debug\MonoAndroid81\res\mipmap-xxhdpi\ic_launcher_round.png
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\obj\Debug\MonoAndroid81\res\mipmap-xxxhdpi\ic_launcher.png
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\obj\Debug\MonoAndroid81\res\mipmap-xxxhdpi\ic_launcher_foreground.png
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\obj\Debug\MonoAndroid81\res\mipmap-xxxhdpi\ic_launcher_round.png
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\obj\Debug\MonoAndroid81\res\layout\activity_login.xml
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\obj\Debug\MonoAndroid81\res\layout\activity_register.xml
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\obj\Debug\MonoAndroid81\res\layout\activity_logged_in.xml
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\obj\Debug\MonoAndroid81\res\layout\book_list_item.xml
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\obj\Debug\MonoAndroid81\res\layout\custom_button_view.xml
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\obj\Debug\MonoAndroid81\res\layout\booklistactivity.xml
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\obj\Debug\MonoAndroid81\R.cs.flag
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\obj\Debug\MonoAndroid81\R.txt
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\obj\Debug\MonoAndroid81\uploadflags.txt
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\bin\Debug\Mono.Android.pdb
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\bin\Debug\Mono.Security.pdb
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\bin\Debug\mscorlib.pdb
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\bin\Debug\System.ComponentModel.Composition.pdb
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\bin\Debug\System.Core.pdb
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\bin\Debug\System.Net.Http.pdb
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\bin\Debug\System.pdb
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\bin\Debug\System.Runtime.Serialization.pdb
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\bin\Debug\System.ServiceModel.Internals.pdb
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\bin\Debug\System.Xml.pdb
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\bin\Debug\System.Data.pdb
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\bin\Debug\System.Numerics.pdb
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\bin\Debug\System.Transactions.pdb
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\bin\Debug\System.IO.Compression.pdb
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\bin\Debug\System.IO.Compression.FileSystem.pdb
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\bin\Debug\System.Web.Services.pdb
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\bin\Debug\System.Xml.Linq.pdb
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\obj\Debug\MonoAndroid81\linksrc\VirtualLibrarity.pdb
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\obj\Debug\MonoAndroid81\linksrc\Mono.Android.pdb
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\obj\Debug\MonoAndroid81\linksrc\mscorlib.pdb
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\obj\Debug\MonoAndroid81\linksrc\System.Core.pdb
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\obj\Debug\MonoAndroid81\linksrc\System.pdb
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\obj\Debug\MonoAndroid81\linksrc\System.Xml.pdb
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\obj\Debug\MonoAndroid81\linksrc\System.ComponentModel.Composition.pdb
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\obj\Debug\MonoAndroid81\linksrc\System.Net.Http.pdb
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\obj\Debug\MonoAndroid81\linksrc\System.Runtime.Serialization.pdb
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\obj\Debug\MonoAndroid81\linksrc\System.ServiceModel.Internals.pdb
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\obj\Debug\MonoAndroid81\linksrc\System.Data.pdb
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\obj\Debug\MonoAndroid81\linksrc\System.Numerics.pdb
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\obj\Debug\MonoAndroid81\linksrc\System.Transactions.pdb
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\obj\Debug\MonoAndroid81\linksrc\System.IO.Compression.pdb
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\obj\Debug\MonoAndroid81\linksrc\System.IO.Compression.FileSystem.pdb
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\obj\Debug\MonoAndroid81\linksrc\System.Web.Services.pdb
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\obj\Debug\MonoAndroid81\linksrc\System.Xml.Linq.pdb
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\obj\Debug\MonoAndroid81\linksrc\Mono.Security.pdb
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\obj\Debug\MonoAndroid81\android\assets\Mono.Android.pdb
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\obj\Debug\MonoAndroid81\android\assets\Mono.Security.pdb
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\obj\Debug\MonoAndroid81\android\assets\mscorlib.pdb
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\obj\Debug\MonoAndroid81\android\assets\System.ComponentModel.Composition.pdb
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\obj\Debug\MonoAndroid81\android\assets\System.Core.pdb
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\obj\Debug\MonoAndroid81\android\assets\System.Data.pdb
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\obj\Debug\MonoAndroid81\android\assets\System.IO.Compression.FileSystem.pdb
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\obj\Debug\MonoAndroid81\android\assets\System.IO.Compression.pdb
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\obj\Debug\MonoAndroid81\android\assets\System.Net.Http.pdb
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\obj\Debug\MonoAndroid81\android\assets\System.Numerics.pdb
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\obj\Debug\MonoAndroid81\android\assets\System.pdb
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\obj\Debug\MonoAndroid81\android\assets\System.Runtime.Serialization.pdb
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\obj\Debug\MonoAndroid81\android\assets\System.ServiceModel.Internals.pdb
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\obj\Debug\MonoAndroid81\android\assets\System.Transactions.pdb
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\obj\Debug\MonoAndroid81\android\assets\System.Web.Services.pdb
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\obj\Debug\MonoAndroid81\android\assets\System.Xml.Linq.pdb
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\obj\Debug\MonoAndroid81\android\assets\System.Xml.pdb
-D:\VU\3 pusmetis\VSProjects\VirtualLibrarity\VirtualLibrarity\obj\Debug\MonoAndroid81\android\assets\VirtualLibrarity.pdb
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\bin\Debug\Assets\unnamed.jpg
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\bin\Debug\VirtualLibrarity.dll
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\bin\Debug\VirtualLibrarity.pdb
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\bin\Debug\VirtualLibrarity.VirtualLibrarity.apk
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\bin\Debug\VirtualLibrarity.VirtualLibrarity-Signed.apk
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\obj\Debug\MonoAndroid81\VirtualLibrarity.csprojAssemblyReference.cache
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\obj\Debug\MonoAndroid81\res.flag
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\obj\Debug\MonoAndroid81\VirtualLibrarity.csproj.CoreCompileInputs.cache
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\obj\Debug\MonoAndroid81\VirtualLibrarity.dll
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\obj\Debug\MonoAndroid81\VirtualLibrarity.pdb
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\obj\Debug\MonoAndroid81\android\bin\VirtualLibrarity.VirtualLibrarity.apk
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\obj\Debug\MonoAndroid81\res\raw\mydb.db
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\obj\Debug\MonoAndroid81\res\layout\activity_main.xml
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\obj\Debug\MonoAndroid81\res\values\colors.xml
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\obj\Debug\MonoAndroid81\res\values\ic_launcher_background.xml
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\obj\Debug\MonoAndroid81\res\values\strings.xml
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\obj\Debug\MonoAndroid81\res\values\styles.xml
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\obj\Debug\MonoAndroid81\res\mipmap-anydpi-v26\ic_launcher.xml
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\obj\Debug\MonoAndroid81\res\mipmap-anydpi-v26\ic_launcher_round.xml
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\obj\Debug\MonoAndroid81\res\mipmap-hdpi\ic_launcher.png
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\obj\Debug\MonoAndroid81\res\mipmap-hdpi\ic_launcher_foreground.png
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\obj\Debug\MonoAndroid81\res\mipmap-hdpi\ic_launcher_round.png
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\obj\Debug\MonoAndroid81\res\mipmap-mdpi\ic_launcher.png
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\obj\Debug\MonoAndroid81\res\mipmap-mdpi\ic_launcher_foreground.png
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\obj\Debug\MonoAndroid81\res\mipmap-mdpi\ic_launcher_round.png
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\obj\Debug\MonoAndroid81\res\mipmap-xhdpi\ic_launcher.png
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\obj\Debug\MonoAndroid81\res\mipmap-xhdpi\ic_launcher_foreground.png
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\obj\Debug\MonoAndroid81\res\mipmap-xhdpi\ic_launcher_round.png
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\obj\Debug\MonoAndroid81\res\mipmap-xxhdpi\ic_launcher.png
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\obj\Debug\MonoAndroid81\res\mipmap-xxhdpi\ic_launcher_foreground.png
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\obj\Debug\MonoAndroid81\res\mipmap-xxhdpi\ic_launcher_round.png
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\obj\Debug\MonoAndroid81\res\mipmap-xxxhdpi\ic_launcher.png
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\obj\Debug\MonoAndroid81\res\mipmap-xxxhdpi\ic_launcher_foreground.png
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\obj\Debug\MonoAndroid81\res\mipmap-xxxhdpi\ic_launcher_round.png
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\obj\Debug\MonoAndroid81\res\layout\activity_login.xml
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\obj\Debug\MonoAndroid81\res\layout\activity_register.xml
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\obj\Debug\MonoAndroid81\res\layout\activity_logged_in.xml
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\obj\Debug\MonoAndroid81\res\layout\book_list_item.xml
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\obj\Debug\MonoAndroid81\res\layout\custom_button_view.xml
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\obj\Debug\MonoAndroid81\res\layout\booklistactivity.xml
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\obj\Debug\MonoAndroid81\R.cs.flag
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\obj\Debug\MonoAndroid81\R.txt
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\obj\Debug\MonoAndroid81\uploadflags.txt
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\bin\Debug\Mono.Android.pdb
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\bin\Debug\Mono.Security.pdb
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\bin\Debug\mscorlib.pdb
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\bin\Debug\System.Core.pdb
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\bin\Debug\System.Data.pdb
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\bin\Debug\System.IO.Compression.FileSystem.pdb
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\bin\Debug\System.IO.Compression.pdb
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\bin\Debug\System.Net.Http.pdb
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\bin\Debug\System.Numerics.pdb
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\bin\Debug\System.pdb
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\bin\Debug\System.Transactions.pdb
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\bin\Debug\System.Web.Services.pdb
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\bin\Debug\System.Xml.Linq.pdb
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\bin\Debug\System.Xml.pdb
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\obj\Debug\MonoAndroid81\linksrc\VirtualLibrarity.pdb
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\obj\Debug\MonoAndroid81\linksrc\Mono.Android.pdb
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\obj\Debug\MonoAndroid81\linksrc\mscorlib.pdb
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\obj\Debug\MonoAndroid81\linksrc\System.Core.pdb
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\obj\Debug\MonoAndroid81\linksrc\System.pdb
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\obj\Debug\MonoAndroid81\linksrc\System.Xml.pdb
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\obj\Debug\MonoAndroid81\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\obj\Debug\MonoAndroid81\linksrc\System.Net.Http.pdb
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\obj\Debug\MonoAndroid81\linksrc\System.Runtime.Serialization.pdb
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\obj\Debug\MonoAndroid81\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\obj\Debug\MonoAndroid81\linksrc\System.Data.pdb
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\obj\Debug\MonoAndroid81\linksrc\System.Numerics.pdb
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\obj\Debug\MonoAndroid81\linksrc\System.Transactions.pdb
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\obj\Debug\MonoAndroid81\linksrc\System.IO.Compression.pdb
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\obj\Debug\MonoAndroid81\linksrc\System.IO.Compression.FileSystem.pdb
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\obj\Debug\MonoAndroid81\linksrc\System.Web.Services.pdb
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\obj\Debug\MonoAndroid81\linksrc\System.Xml.Linq.pdb
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\obj\Debug\MonoAndroid81\linksrc\Mono.Security.pdb
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\obj\Debug\MonoAndroid81\res\layout\activity_login_proxy.xml
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\obj\Debug\MonoAndroid81\android\assets\Mono.Android.pdb
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\obj\Debug\MonoAndroid81\android\assets\Mono.Security.pdb
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\obj\Debug\MonoAndroid81\android\assets\mscorlib.pdb
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\obj\Debug\MonoAndroid81\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\obj\Debug\MonoAndroid81\android\assets\System.Core.pdb
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\obj\Debug\MonoAndroid81\android\assets\System.Data.pdb
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\obj\Debug\MonoAndroid81\android\assets\System.IO.Compression.FileSystem.pdb
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\obj\Debug\MonoAndroid81\android\assets\System.IO.Compression.pdb
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\obj\Debug\MonoAndroid81\android\assets\System.Net.Http.pdb
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\obj\Debug\MonoAndroid81\android\assets\System.Numerics.pdb
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\obj\Debug\MonoAndroid81\android\assets\System.pdb
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\obj\Debug\MonoAndroid81\android\assets\System.Runtime.Serialization.pdb
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\obj\Debug\MonoAndroid81\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\obj\Debug\MonoAndroid81\android\assets\System.Transactions.pdb
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\obj\Debug\MonoAndroid81\android\assets\System.Web.Services.pdb
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\obj\Debug\MonoAndroid81\android\assets\System.Xml.Linq.pdb
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\obj\Debug\MonoAndroid81\android\assets\System.Xml.pdb
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\obj\Debug\MonoAndroid81\android\assets\VirtualLibrarity.pdb
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibrarity\obj\Debug\MonoAndroid81\linksrc\VirtualLibrarity.pdb

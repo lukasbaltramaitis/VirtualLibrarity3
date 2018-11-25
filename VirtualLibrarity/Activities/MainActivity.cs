@@ -7,7 +7,7 @@ using Android.Content;
 using Android.Support.Animation;
 using System.Threading;
 
-namespace VirtualLibrarity
+namespace VirtualLibrarity.Activities
 {
     [Activity(Label = "@string/app_name", Theme = "@style/AppTheme", MainLauncher = true)]
     public class MainActivity : AppCompatActivity
@@ -32,8 +32,14 @@ namespace VirtualLibrarity
                 _springAnim.SetStartVelocity(-300);
                 _springAnim.Start();
 
-                ThreadStart start = new ThreadStart(StartNewActivity);
-                Thread thread = new Thread(start);
+                Thread thread = new Thread(delegate ()
+                {
+                    while (_springAnim.IsRunning)
+                        Thread.Sleep(50);
+
+                    Intent intent = new Intent(this, typeof(LoginActivity));
+                    StartActivity(intent);
+                });
                 thread.Start();
             };
 
@@ -45,24 +51,16 @@ namespace VirtualLibrarity
                 _springAnim.SetStartVelocity(300);
                 _springAnim.Start();
 
-                ThreadStart start = new ThreadStart(StartNewActivity);
-                Thread thread = new Thread(start);
+                Thread thread = new Thread(delegate ()
+                {
+                    while (_springAnim.IsRunning)
+                        Thread.Sleep(50);
+
+                    Intent intent = new Intent(this, typeof(RegisterActivity));
+                    StartActivity(intent);
+                });
                 thread.Start();
             };
-        }
-
-        private void StartNewActivity()
-        {
-            Intent intent;
-            while (_springAnim.IsRunning)
-            {
-                Thread.Sleep(50);
-            }
-            if (_LoginPressed)
-                intent = new Intent(this, typeof(LoginActivity));
-            else
-                intent = new Intent(this, typeof(RegisterActivity));
-            StartActivity(intent);
         }
     }
 }

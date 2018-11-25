@@ -2468,6 +2468,9 @@ namespace VirtualLibrarity
 			// aapt resource value: 0x7F0C0031
 			public const int fill = 2131492913;
 			
+			// aapt resource value: 0x7F010017
+			public const int FinishRegisteringButton = 2130771991;
+			
 			// aapt resource value: 0x7F0C0032
 			public const int @fixed = 2131492914;
 			
@@ -2551,6 +2554,9 @@ namespace VirtualLibrarity
 			
 			// aapt resource value: 0x7F0C0046
 			public const int multiply = 2131492934;
+			
+			// aapt resource value: 0x7F010014
+			public const int NameET = 2130771988;
 			
 			// aapt resource value: 0x7F0C0047
 			public const int navigation_header_container = 2131492935;
@@ -2702,11 +2708,17 @@ namespace VirtualLibrarity
 			// aapt resource value: 0x7F0C0076
 			public const int submit_area = 2131492982;
 			
+			// aapt resource value: 0x7F010015
+			public const int SurameET = 2130771989;
+			
 			// aapt resource value: 0x7F0C0077
 			public const int tabMode = 2131492983;
 			
 			// aapt resource value: 0x7F0C0016
 			public const int tag_transition_group = 2131492886;
+			
+			// aapt resource value: 0x7F010016
+			public const int TakeAPhotoButton = 2130771990;
 			
 			// aapt resource value: 0x7F0C0017
 			public const int text = 2131492887;
@@ -2765,17 +2777,17 @@ namespace VirtualLibrarity
 			// aapt resource value: 0x7F0C008B
 			public const int transition_transform = 2131493003;
 			
-			// aapt resource value: 0x7F010014
-			public const int TVAuthor = 2130771988;
+			// aapt resource value: 0x7F010018
+			public const int TVAuthor = 2130771992;
 			
-			// aapt resource value: 0x7F010016
-			public const int TVQRCode = 2130771990;
+			// aapt resource value: 0x7F010020
+			public const int TVQRCode = 2130772000;
 			
-			// aapt resource value: 0x7F010017
-			public const int TVReturnDate = 2130771991;
+			// aapt resource value: 0x7F010021
+			public const int TVReturnDate = 2130772001;
 			
-			// aapt resource value: 0x7F010015
-			public const int TVTitle = 2130771989;
+			// aapt resource value: 0x7F010019
+			public const int TVTitle = 2130771993;
 			
 			// aapt resource value: 0x7F0C008C
 			public const int uniform = 2131493004;
@@ -2933,19 +2945,22 @@ namespace VirtualLibrarity
 			public const int activity_login = 2130837507;
 			
 			// aapt resource value: 0x7F020004
-			public const int activity_main = 2130837508;
+			public const int activity_login_proxy = 2130837508;
 			
 			// aapt resource value: 0x7F020005
-			public const int activity_register = 2130837509;
+			public const int activity_main = 2130837509;
 			
 			// aapt resource value: 0x7F020006
-			public const int bookListActivity = 2130837510;
+			public const int activity_register = 2130837510;
 			
 			// aapt resource value: 0x7F020007
-			public const int book_list_item = 2130837511;
+			public const int bookListActivity = 2130837511;
 			
 			// aapt resource value: 0x7F020008
-			public const int custom_button_view = 2130837512;
+			public const int book_list_item = 2130837512;
+			
+			// aapt resource value: 0x7F020009
+			public const int custom_button_view = 2130837513;
 			
 			// aapt resource value: 0x7F0F001B
 			public const int design_bottom_navigation_item = 2131689499;

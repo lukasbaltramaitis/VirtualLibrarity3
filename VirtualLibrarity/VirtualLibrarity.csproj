@@ -56,16 +56,14 @@
     <Reference Include="Mono.Android" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AddedAcitivity\MainPage.xaml.cs">
-      <DependentUpon>MainPage.xaml</DependentUpon>
-    </Compile>
-    <Compile Include="AddedAcitivity\MainPage1.xaml.cs" />
+    <Compile Include="Activities\LoginProxyActivity.cs" />
     <Compile Include="Database\Book.cs" />
     <Compile Include="Database\DbHelper.cs" />
     <Compile Include="Activities\LoginActivity.cs" />
     <Compile Include="Activities\MainActivity.cs" />
     <Compile Include="Activities\LoggedInActivity.cs" />
     <Compile Include="Activities\RegisterActivity.cs" />
+    <Compile Include="RequestSender.cs" />
     <Compile Include="Resources\Resource.Designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Database\User.cs" />
@@ -105,11 +103,17 @@
     <AndroidResource Include="Resources\mipmap-xxxhdpi\ic_launcher_round.png" />
   </ItemGroup>
   <ItemGroup>
+    <PackageReference Include="RestSharp">
+      <Version>106.5.4</Version>
+    </PackageReference>
     <PackageReference Include="System.Data.SQLite">
       <Version>1.0.109.2</Version>
     </PackageReference>
     <PackageReference Include="Xamarin.Android.Support.Design" Version="27.0.2.1" />
     <PackageReference Include="Xamarin.Android.Support.Dynamic.Animation">
+      <Version>27.0.2.1</Version>
+    </PackageReference>
+    <PackageReference Include="Xamarin.Android.Support.v7.AppCompat">
       <Version>27.0.2.1</Version>
     </PackageReference>
   </ItemGroup>
@@ -143,11 +147,9 @@
     <AndroidResource Include="Resources\layout\bookListActivity.axml">
       <SubType>Designer</SubType>
     </AndroidResource>
-  </ItemGroup>
-  <ItemGroup>
-    <Page Include="AddedAcitivity\MainPage.xaml">
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
+    <AndroidResource Include="Resources\layout\activity_login_proxy.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it.

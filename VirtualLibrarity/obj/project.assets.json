@@ -2,6 +2,15 @@
   "version": 3,
   "targets": {
     "MonoAndroid,Version=v8.1": {
+      "RestSharp/106.5.4": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/RestSharp.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/RestSharp.dll": {}
+        }
+      },
       "System.Data.SQLite/1.0.109.2": {
         "type": "package",
         "dependencies": {
@@ -299,6 +308,20 @@
     }
   },
   "libraries": {
+    "RestSharp/106.5.4": {
+      "sha512": "YaGn6olg2GD0gLy7YDG1FsSnC6TBwgn/zZSONiOj7hPFJJ0Q+k2hBogyalUXkodihVa0ugRwCqSPCiqdNyFKzA==",
+      "type": "package",
+      "path": "restsharp/106.5.4",
+      "files": [
+        ".signature.p7s",
+        "lib/net452/RestSharp.dll",
+        "lib/net452/RestSharp.xml",
+        "lib/netstandard2.0/RestSharp.dll",
+        "lib/netstandard2.0/RestSharp.xml",
+        "restsharp.106.5.4.nupkg.sha512",
+        "restsharp.nuspec"
+      ]
+    },
     "System.Data.SQLite/1.0.109.2": {
       "sha512": "dsN3a0THLGDu1QDHGdhETU9rgr1tU0IOwnnOQHTR2huXU6HS/o/Nbq1Bol6jrLM3GqQrdNjPxVPZUPaYDRhT4Q==",
       "type": "package",
@@ -575,9 +598,11 @@
   },
   "projectFileDependencyGroups": {
     "MonoAndroid,Version=v8.1": [
+      "RestSharp >= 106.5.4",
       "System.Data.SQLite >= 1.0.109.2",
       "Xamarin.Android.Support.Design >= 27.0.2.1",
-      "Xamarin.Android.Support.Dynamic.Animation >= 27.0.2.1"
+      "Xamarin.Android.Support.Dynamic.Animation >= 27.0.2.1",
+      "Xamarin.Android.Support.v7.AppCompat >= 27.0.2.1"
     ]
   },
   "packageFolders": {
@@ -613,6 +638,10 @@
     "frameworks": {
       "monoandroid81": {
         "dependencies": {
+          "RestSharp": {
+            "target": "Package",
+            "version": "[106.5.4, )"
+          },
           "System.Data.SQLite": {
             "target": "Package",
             "version": "[1.0.109.2, )"
@@ -622,6 +651,10 @@
             "version": "[27.0.2.1, )"
           },
           "Xamarin.Android.Support.Dynamic.Animation": {
+            "target": "Package",
+            "version": "[27.0.2.1, )"
+          },
+          "Xamarin.Android.Support.v7.AppCompat": {
             "target": "Package",
             "version": "[27.0.2.1, )"
           }
