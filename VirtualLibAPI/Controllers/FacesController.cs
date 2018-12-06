@@ -1,5 +1,6 @@
 ﻿using Autofac;
 using System.Web.Http;
+using VirtualLibrarity.Models;
 
 namespace VirtualLibAPI.Controllers
 {
@@ -13,7 +14,7 @@ namespace VirtualLibAPI.Controllers
        
 
         // POST api/faces
-        public int Post([FromBody]Face face)
+        public UserToLoginResponse Post([FromBody]Face face)
         {
             return _ph.HandlePost(face);
         }

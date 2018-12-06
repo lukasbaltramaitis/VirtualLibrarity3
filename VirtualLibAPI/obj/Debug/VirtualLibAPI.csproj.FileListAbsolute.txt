@@ -216,3 +216,7 @@ C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibAPI\obj\Debug\Virtual
 C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibAPI\obj\Debug\VirtualLibAPI.csproj.CopyComplete
 C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibAPI\obj\Debug\VirtualLibAPI.dll
 C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibAPI\obj\Debug\VirtualLibAPI.pdb
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibAPI\bin\EntityFramework.dll
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibAPI\bin\EntityFramework.xml
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibAPI\bin\EntityFramework.SqlServer.xml

@@ -6,7 +6,7 @@ namespace VirtualLibrarity.DataWorkers
     {
         public static string GetString(string key)
         {
-            return ConfigurationManager.AppSettings[key].ToString();
+            return ConfigurationManager.AppSettings[key].ToString(); //const
         }
     }
 }

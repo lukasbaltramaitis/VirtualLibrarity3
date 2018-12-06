@@ -16,7 +16,6 @@ namespace VirtualLibrarity
     [Activity(Label = "Login")]
     public class LoginActivity : Activity
     {
-        int _id;
         DbHelper _dbHelper;
         SQLiteDatabase _database;
         RequestSender _requestSender=new RequestSender();

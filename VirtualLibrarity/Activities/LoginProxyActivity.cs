@@ -34,7 +34,7 @@ namespace VirtualLibrarity.Activities
         }
         private async void Login()
         {
-            _id = await _requestSender.SendFaceAsync(_image, false);
+            _id = await _requestSender.SendFaceAsync(_image, false); ///
 
             if (_id != 0)
             {

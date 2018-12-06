@@ -611,9 +611,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lukas\\source\\repos\\VirtualLibrarityV2.0\\VirtualLibrarity\\VirtualLibrarity.csproj",
-      "projectName": "VirtualLibrarity",
-      "projectPath": "C:\\Users\\Lukas\\source\\repos\\VirtualLibrarityV2.0\\VirtualLibrarity\\VirtualLibrarity.csproj",
+      "projectUniqueName": "C:\\Users\\Lukas\\source\\repos\\VirtualLibrarityV2.0\\VirtualLibrarity\\VirtualLibClient.csproj",
+      "projectName": "VirtualLibClient",
+      "projectPath": "C:\\Users\\Lukas\\source\\repos\\VirtualLibrarityV2.0\\VirtualLibrarity\\VirtualLibClient.csproj",
       "packagesPath": "C:\\Users\\Lukas\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Lukas\\source\\repos\\VirtualLibrarityV2.0\\VirtualLibrarity\\obj\\",
       "projectStyle": "PackageReference",

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2050
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualLibrarity", "VirtualLibrarity\VirtualLibrarity.csproj", "{1295C450-4CAE-424F-940D-E4EF95F9F693}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualLibClient", "VirtualLibrarity\VirtualLibClient.csproj", "{1295C450-4CAE-424F-940D-E4EF95F9F693}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualLibAPI", "VirtualLibAPI\VirtualLibAPI.csproj", "{5ACBFCE7-08BD-4E9A-BD2E-F8DEFC0D34AD}"
 EndProject
