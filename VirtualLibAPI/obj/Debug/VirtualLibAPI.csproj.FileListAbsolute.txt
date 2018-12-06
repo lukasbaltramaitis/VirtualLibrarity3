@@ -211,7 +211,6 @@ C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibAPI\bin\Microsoft.AI.
 C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibAPI\bin\Microsoft.AI.WindowsServer.xml
 C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibAPI\bin\Microsoft.AI.Web.xml
 C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibAPI\obj\Debug\VirtualLibAPI.csprojAssemblyReference.cache
 C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibAPI\obj\Debug\VirtualLibAPI.csproj.CoreCompileInputs.cache
 C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibAPI\obj\Debug\VirtualLibAPI.csproj.CopyComplete
 C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibAPI\obj\Debug\VirtualLibAPI.dll
@@ -220,3 +219,5 @@ C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibAPI\bin\EntityFramewo
 C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibAPI\bin\EntityFramework.SqlServer.dll
 C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibAPI\bin\EntityFramework.xml
 C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibAPI\bin\Database\LibraryDB.mdf
+C:\Users\Lukas\source\repos\VirtualLibrarityV2.0\VirtualLibAPI\bin\Database\LibraryDB_log.ldf
